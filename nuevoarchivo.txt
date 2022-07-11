@@ -1,0 +1,29 @@
+[33mcommit 3a1fdef6644b060703d80449fc72a4483e578b50[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Patricio Quishpe <patomvm2003@gmail.com>
+Date:   Mon Jul 11 11:37:38 2022 -0500
+
+    realizamos un cambio del archivo sin realiazar un guardado con crt+s
+
+[33mcommit 7d0800dde88a24e798190af76ad5504b88434a14[m
+Author: Patricio Quishpe <patomvm2003@gmail.com>
+Date:   Sun Jul 10 23:27:08 2022 -0500
+
+    Nadie te amara
+
+[33mcommit eeae669bacd63429cdb8c02879d7d5e7c03eab3e[m
+Author: Patricio Quishpe <patomvm2003@gmail.com>
+Date:   Sun Jul 10 21:53:12 2022 -0500
+
+    Andamos on fire y agregamos la edad
+
+[33mcommit 181bc33ac76e4377470919c1a2992a58a2edb3f4[m
+Author: Patricio Quishpe <patomvm2003@gmail.com>
+Date:   Wed Jul 6 13:48:44 2022 -0500
+
+    Cambios en el archivo para reflejar las caracteristicas correctas
+
+[33mcommit e801ae37f56eda547da9b17530cf6fa212e4f081[m
+Author: Patricio Quishpe <patomvm2003@gmail.com>
+Date:   Wed Jul 6 13:39:35 2022 -0500
+
+    Este es el primer commit
